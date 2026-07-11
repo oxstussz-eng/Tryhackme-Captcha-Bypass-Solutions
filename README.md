@@ -2,7 +2,7 @@ Capture Returns
 https://tryhackme.com/room/capturereturns
 
 
-         Script functionality
+    Script functionality
 
 The script begins with a dummy request.
 
